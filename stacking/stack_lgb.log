@@ -1,0 +1,76 @@
+(184680, 4) (10135, 4)
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.366872
+[600]	valid_0's binary_logloss: 0.366908
+Early stopping, best iteration is:
+[368]	valid_0's binary_logloss: 0.366767
+Dev eval precision 0.5159944367164674
+Dev eval recall 0.5294957183622039
+Dev eval accuracy 0.8238759421290722
+Dev eval F1-score 0.5226578959153146
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.365491
+Early stopping, best iteration is:
+[298]	valid_0's binary_logloss: 0.365489
+Dev eval precision 0.5173538318180355
+Dev eval recall 0.528306374879809
+Dev eval accuracy 0.8243524213805664
+Dev eval F1-score 0.5227727383204903
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.370535
+Early stopping, best iteration is:
+[282]	valid_0's binary_logloss: 0.37052
+Dev eval precision 0.505294659299021
+Dev eval recall 0.5222460147501256
+Dev eval accuracy 0.8199263591072905
+Dev eval F1-score 0.5136305086306726
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.365322
+[600]	valid_0's binary_logloss: 0.365367
+Early stopping, best iteration is:
+[320]	valid_0's binary_logloss: 0.365312
+Dev eval precision 0.5125284738029328
+Dev eval recall 0.5353319057803109
+Dev eval accuracy 0.8226987221135704
+Dev eval F1-score 0.5236820617997062
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.368155
+[600]	valid_0's binary_logloss: 0.368249
+Early stopping, best iteration is:
+[359]	valid_0's binary_logloss: 0.368123
+Dev eval precision 0.5071672354937266
+Dev eval recall 0.5303354746596947
+Dev eval accuracy 0.8206627680308336
+Dev eval F1-score 0.5184926677158721
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.365817
+[600]	valid_0's binary_logloss: 0.365783
+Early stopping, best iteration is:
+[445]	valid_0's binary_logloss: 0.365748
+Dev eval precision 0.5209580838311355
+Dev eval recall 0.5381870092778059
+Dev eval accuracy 0.8258176304956353
+Dev eval F1-score 0.5294324116179892
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.369491
+[600]	valid_0's binary_logloss: 0.369437
+Early stopping, best iteration is:
+[522]	valid_0's binary_logloss: 0.369398
+Dev eval precision 0.5049030786761576
+Dev eval recall 0.5267665952878259
+Dev eval accuracy 0.8197885981628747
+Dev eval F1-score 0.5156031622111055
+Training until validation scores don't improve for 300 rounds.
+[300]	valid_0's binary_logloss: 0.366713
+[600]	valid_0's binary_logloss: 0.366734
+Early stopping, best iteration is:
+[379]	valid_0's binary_logloss: 0.366623
+Dev eval precision 0.5140924464475444
+Dev eval recall 0.5424696645240484
+Dev eval accuracy 0.8233408421413865
+Dev eval F1-score 0.5278999718488768
+The avg F1_score is 0.5217714272575034
+Dev eval precision 0.5486205336926793
+Dev eval recall 0.6479700854666242
+Dev eval accuracy 0.836507153427887
+Dev eval F1-score 0.5941709477623924
